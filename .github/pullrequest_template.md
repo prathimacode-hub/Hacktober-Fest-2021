@@ -1,4 +1,4 @@
-# Provide your information in following template :
+# Provide your information in this following format while creating your PR
 
 PR Title : Short script of what PR is 
 
