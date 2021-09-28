@@ -28,15 +28,16 @@ Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages parti
 
 This repository showcases all the open source projects that had been plattered for contributions at Hacktoberfest 2021. Why to hassle over the repositories here and there with labels and tags when it's all exhibited here to your content.
 
-Languages : Python, C, C++, HTML, CSS & Javascript
-Domains : Data Structures & Algorithms, Internet Of Things, Machine Learning, Computer Vision, Natural Language Processing, Deep Learning, Web Development & Frameworks
+**Languages** : Python, C, C++, HTML, CSS & Javascript
+
+**Domains** : Data Structures & Algorithms, Internet Of Things, Machine Learning, Computer Vision, Natural Language Processing, Deep Learning, Web Development & Frameworks
 
 
 <h2>✔Join in</h2>
 
 The purpose of creating this repo is to provide beginner friendly projects for contributors to work on and get indulged in this cone of open source festivity. Peep in to explore this month long journey of october stud. 
 
-Have you had contributed to any of these mentioned projects through this "Hacktober-Fest-201" repository. Feel free to append your name along with your details in [CONTRIBUTORS.md]() 
+Have you had contributed to any of these mentioned projects through this "Hacktober-Fest-201" repository. Feel free to append your name along with your details in [CONTRIBUTORS.md](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/CONTRIBUTORS.md) 
 
 If this project helped you start with your open source journey or got you involved in contributions, you can show your support. But how?
 
