@@ -37,13 +37,13 @@ This repository showcases all the open source projects that had been plattered f
 
 The purpose of creating this repo is to provide beginner friendly projects for contributors to work on and get indulged in this cone of open source festivity. Peep in to explore this month long journey of october stud. 
 
-Have you had contributed to any of these mentioned projects through this "Hacktober-Fest-201" repository. Feel free to append your name along with your details in [CONTRIBUTORS.md](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/CONTRIBUTORS.md) 
+Have you had contributed to any of these mentioned projects through this "Hacktober-Fest-201" repository. Feel free to append your name along with your details in [CONTRIBUTORS](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/CONTRIBUTORS.md) 
 
 If this project helped you start with your open source journey or got you involved in contributions, you can show your support. But how?
 
 - Sharing is always caring. You can share it to the world 
 
-- You can add up your experience in [Testimonials.md](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/Testimonials.md)
+- You can add up your experience in [Testimonials](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/Testimonials.md)
 
 - You can follow me up through social handles
 
