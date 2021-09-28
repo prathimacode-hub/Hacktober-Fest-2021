@@ -13,13 +13,23 @@
 
 </div>
 
+<h2>🤞What's HacktoberFest?</h2>
+
+Hacktoberfest is a month-long celebration of open-source software. Every October, everyone is encouraged to support open-source by contributing a minimum of 4 pull requests to earn limited-edition SWAG or to plant a tree.
+
+Everyone is invited to participate and contribute regardless of your background or experience. All you need to do is sign-up to participate on the Hacktoberfest website.
+
+Website Link : https://hacktoberfest.digitalocean.com/
+
+Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects. 
+
 
 <h2>📌Repository</h2>
 
 This repository showcases all the open source projects that had been plattered for contributions at Hacktoberfest 2021. Why to hassle over the repositories here and there with labels and tags when it's all exhibited here to your content.
 
-Languages : Python, C, C++, HTML, CSS, Javascript
-Domains : Data Structures & Algorithms, Internet Of Things, Machine Learning, Computer Vision, Natural Language Processing, Deep Learning, Web Development, Frameworks
+Languages : Python, C, C++, HTML, CSS & Javascript
+Domains : Data Structures & Algorithms, Internet Of Things, Machine Learning, Computer Vision, Natural Language Processing, Deep Learning, Web Development & Frameworks
 
 
 <h2>✔Join in</h2>
@@ -43,7 +53,7 @@ If this project helped you start with your open source journey or got you involv
 
 - [Pull Request](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
-**Note** : One should follow this PR template while appending your details
+**Note** : One should follow this PR template while appending your details of your contribution
 
 
 <h2>👨‍💻Workflow:</h2>
