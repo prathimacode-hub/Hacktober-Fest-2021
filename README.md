@@ -52,7 +52,7 @@ If this project helped you start with your open source journey or got you involv
 
 <h2>🛠Templates to Follow</h2>
 
-- [Pull Request](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [Pull Request](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/pullrequest_template.md)
 
 **Note** : One should follow this PR template while appending your details of your contribution
 
