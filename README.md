@@ -120,8 +120,8 @@ No worries, I had got you covered with basic welcoming repositories.😊
 Note : This repositories are purely for your practice and won't be covered under Hacktoberfest
 
 
-| Serial No. | Repository | Description | Issues  | Pull Requests  | Forks |
-|:--|:--|:--|:--|:--|:--|
+| Serial No. | Repository | Issues  | Pull Requests  | Forks |
+|:--|:--|:--|:--|:--|
 | 1. | [HelloWorld](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=social&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&logo=git)](https://github.com/prathimacode-hub/HelloWorld/network) |
 | 2. | [E-Library](https://github.com/prathimacode-hub/E-Library/) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/E-Library?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/E-Library/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/E-Library?style=social&logo=github)](https://github.com/prathimacode-hub/E-Library/pulls) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/E-Library?style=flat-square&logo=git)](https://github.com/prathimacode-hub/E-Library/network) |
 
