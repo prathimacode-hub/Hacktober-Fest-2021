@@ -12,13 +12,13 @@ PR's COMPLETED : Number of PR's that are merged into these open source projects 
 
 Start Appending your Details below :
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : Dhruv Bajaj <br>
+LINKEDIN : https://www.linkedin.com/in/dhruv-bajaj01/ <br>
+TWITTER : .......... <br>
+GITHUB : https://github.com/DhruvBajaj01 <br>
+ABOUT YOU : Machine learning enthusiast <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : 4-5 <br>
+PR'S COMPLETED : 1 <br>
 
 --
 
