@@ -12,13 +12,9 @@ PR's COMPLETED : Number of PR's that are merged into these open source projects 
 
 Start Appending your Details below :
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : Adarsh Raghav <br>
+LINKEDIN : https://www.linkedin.com/in/adarshraghav/ <br>
+GITHUB : https://github.com/adarshraghav <br>
 
 --
 
