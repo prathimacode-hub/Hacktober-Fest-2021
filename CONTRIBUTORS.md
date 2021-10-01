@@ -28,6 +28,6 @@ TWITTER : https://twitter.com/Avinash24328385?s=08 <br>
 GITHUB : https://github.com/avinash-218 <br>
 ABOUT YOU : Data Science Enthusiast <br>
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : 2-4 <br>
-PR'S COMPLETED : 0 <br>
+PR'S COMPLETED : 1 <br>
 
 --
