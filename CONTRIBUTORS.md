@@ -31,3 +31,11 @@ PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
 PR'S COMPLETED : ................. <br>
 
 --
+
+NAME : Dhruv <br>
+LINKEDIN : https://www.linkedin.com/in/dhruv-bajaj-bb30211b7/ <br>
+TWITTER : .............. <br>
+GITHUB : https://github.com/DhruvBajaj01 <br>
+ABOUT YOU : ML enthusiast and Data scientist <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : 4-5 <br>
+PR'S COMPLETED : 1 <br>
