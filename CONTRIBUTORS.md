@@ -22,12 +22,12 @@ PR'S COMPLETED : ................. <br>
 
 --
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : Avinash R <br>
+LINKEDIN : https://www.linkedin.com/in/avinash-r-2113741b1/ <br>
+TWITTER : https://twitter.com/Avinash24328385?s=08 <br>
+GITHUB : https://github.com/avinash-218 <br>
+ABOUT YOU : Data Science Enthusiast <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : 2-4 <br>
+PR'S COMPLETED : 0 <br>
 
 --
