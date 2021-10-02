@@ -2,6 +2,8 @@
 
 # Template to Follow
 
+Note : Strictly only for contributors who had submitted their contributions in the listed open source projects of this repository. Happy contributing folks.🏆👏
+
 NAME : Your Full Name <br>
 LINKEDIN : LinkedIn Profile Link <br>
 TWITTER : Twitter Profile Link <br>
