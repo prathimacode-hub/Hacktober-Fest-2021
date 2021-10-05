@@ -14,13 +14,13 @@ PR's COMPLETED : Number of PR's that are merged into these open source projects 
 
 Start Appending your Details below :
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : Bhawana Kumar <br>
+LINKEDIN : [Bhawana Kumar](www.linkedin.com/in/bhawana-kumar) <br>
+TWITTER :  - <br>
+GITHUB : [thebhavana](https://github.com/thebhavana) <br>
+ABOUT YOU : I am a coder and computer engineering student. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) <br>
+PR'S COMPLETED : 1 <br>
 
 --
 
