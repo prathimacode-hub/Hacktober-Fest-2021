@@ -22,6 +22,15 @@ ABOUT YOU : I am a coder and computer engineering student. <br>
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) <br>
 PR'S COMPLETED : 1 <br>
 
+
+NAME : Sahitya Roy <br>
+LINKEDIN : [Sahitya Roy](www.linkedin.com/in/sahitya-roy/) <br>
+TWITTER :  [Sahitya Roy](https://twitter.com/SahityaRoy07) <br>
+GITHUB : [SahityaRoy](https://github.com/SahityaRoy) <br>
+ABOUT YOU : Passionate about coding and online teaching beginners how to code efficiently. Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from IEM UEM, Jaipur. <br>
+PROJECT/PROJECTS YOU HAD ADMIN TO : [Eduhub Community](https://github.com/Eduhub-Community/eduhub-website) <br>
+PR'S COMPLETED : 4 in Hacktoberfest <br>
+
 --
 
 NAME : ............. <br>
