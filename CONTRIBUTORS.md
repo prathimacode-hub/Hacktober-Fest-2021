@@ -24,12 +24,12 @@ PR'S COMPLETED : 1 <br>
 
 --
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : Aryan Sunil Ahuja <br>
+LINKEDIN : https://www.linkedin.com/in/aryan-ahuja-013443190/ <br>
+TWITTER : https://twitter.com/Aryan1053 <br>
+GITHUB : https://github.com/theshredbox <br>
+ABOUT YOU : I am an AI& ML enthusisast and a back- end developer. My expertise includes python, ML, DL and Tableau. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Scale Chart for Musical Compostion](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Scale%20Chart%20For%20Musical%20Composition) |  [Bagging and Boosting](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Machine%20Learning/Algorithms/Bagging%20and%20Boosting) |  [Image Distortion Correction Using OpenCV](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Distortion%20Correction%20Using%20OpenCV) |  [Image Segmentation Using K Means Clustering](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Segmentation%20Using%20K%20Means%20Clustering) <br>
+PR'S COMPLETED : 4 <br>
 
 --
