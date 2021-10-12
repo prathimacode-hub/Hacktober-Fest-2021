@@ -72,3 +72,13 @@ GITHUB : [Sirish C/Github](https://github.com/SirishC)<br>
 ABOUT YOU : I'm an ambivert computer science undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
 PROJECT YOU HAD CONTRIBUTED TO : [I am Bored API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/I%20am%20Bored%20API) <br>
 PR's COMPLETED : 1 <br>
+
+--
+
+NAME : Avinash R <br>
+LINKEDIN : [Avinash R](https://www.linkedin.com/in/avinash-r-2113741b1/) <br>
+TWITTER : - [Avinash R](https://twitter.com/Avinash24328385?s=08) <br>
+GITHUB : [Avinash R/Github](https://github.com/avinash-218)<br>
+ABOUT YOU : AI Enthusiast, Open-source Contributor and Life-Long Learner
+PROJECT YOU HAD CONTRIBUTED TO : [DS-ScriptdNook](https://github.com/avinash-218/DS-ScriptsNook.git) <br>
+PR's COMPLETED : 2 <br>
