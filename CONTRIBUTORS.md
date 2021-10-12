@@ -24,12 +24,12 @@ PR'S COMPLETED : 1 <br>
 
 --
 
-NAME : ............. <br>
-LINKEDIN : .............. <br>
-TWITTER : .............. <br>
-GITHUB : ............... <br>
-ABOUT YOU : .................... <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : ................. <br>
-PR'S COMPLETED : ................. <br>
+NAME : YASH KATARIA <br>
+LINKEDIN : www.linkedin.com/in/kataria-yash <br>
+TWITTER : [Twitter](www.twitter.com/yashh18_) <br>
+GITHUB : www.github.com/yashh18 <br>
+ABOUT YOU : I am an IT undegrad student at BVCOE,New Delhi. My areas of expertise are Python, C++, ML <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Random Password Classifier](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Random%20Password%20Classifier) <br>
+PR'S COMPLETED : 1 <br>
 
 --
