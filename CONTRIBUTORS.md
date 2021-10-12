@@ -44,14 +44,13 @@ PR'S COMPLETED : 1 <br>
 
 --
 
-NAME : Freny Reji
+NAME : Freny Reji <br>
+LINKEDIN : [Freny Reji](https://www.linkedin.com/in/freny-reji-2401) <br>
+TWITTER :  - <br>
+GITHUB : [freny24](https://github.com/freny24) <br>
+ABOUT YOU : I am a CSE student studying at VIT Bhopal. My expertise includes Python ,Machine Learning and Data Science. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Feature Extraction using Hough Transform <br>
+PR'S COMPLETED : 1 <br>
 
-LINKEDIN : [Freny Reji](https://www.linkedin.com/in/freny-reji-2401)
+--
 
-GITHUB : [freny24](https://github.com/freny24)
-
-ABOUT YOU : I am a CSE student studying at VIT Bhopal. My expertise includes Python ,Machine Learning and Data Science.
-
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Feature Extraction using Hough Transform
-
-PR'S COMPLETED : 1
