@@ -43,3 +43,15 @@ PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Human Detection and Counting](https:/
 PR'S COMPLETED : 1 <br>
 
 --
+
+NAME : Freny Reji
+
+LINKEDIN : [Freny Reji](https://www.linkedin.com/in/freny-reji-2401)
+
+GITHUB : [freny24](https://github.com/freny24)
+
+ABOUT YOU : I am a CSE student studying at VIT Bhopal. My expertise includes Python ,Machine Learning and Data Science.
+
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Feature Extraction using Hough Transform
+
+PR'S COMPLETED : 1
