@@ -33,3 +33,13 @@ PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Scale Chart for Musical Compostion](h
 PR'S COMPLETED : 4 <br>
 
 --
+
+NAME : Akash Rajak <br>
+LINKEDIN : [Akash Rajak](https://www.linkedin.com/in/akash-rajak-akash435/) <br>
+TWITTER :  [Akash Rajak](https://twitter.com/akash_ramanand) <br>
+GITHUB : [akash435](https://github.com/akash435) <br>
+ABOUT YOU : I am a CSE student in IIIT Kalyani. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Human Detection and Counting](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Computer%20Vision/Human%20Detection%20and%20Counting) <br>
+PR'S COMPLETED : 1 <br>
+
+--
