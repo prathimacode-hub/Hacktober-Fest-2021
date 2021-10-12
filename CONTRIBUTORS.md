@@ -69,6 +69,6 @@ NAME : Sirish C <br>
 LINKEDIN : [Sirish C/LinkedIn](https://www.linkedin.com/in/sirish-c/) <br>
 TWITTER : - <br>
 GITHUB : [Sirish C/Github](https://github.com/SirishC)<br>
-ABOUT YOU : I'm an ambivert undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
+ABOUT YOU : I'm an ambivert computer science undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
 PROJECT YOU HAD CONTRIBUTED TO : [I am Bored API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/I%20am%20Bored%20API) <br>
-PR's COMPLETED : 2 <br>
+PR's COMPLETED : 1 <br>
