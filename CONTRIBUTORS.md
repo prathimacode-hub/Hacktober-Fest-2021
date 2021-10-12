@@ -54,3 +54,11 @@ PR'S COMPLETED : 1 <br>
 
 --
 
+
+NAME : Ayushi Shrivastava <br>
+LINKEDIN : [Ayushi Shrivastava](https://www.linkedin.com/in/ayushi-shrivastava-bb8b37199/) <br>
+TWITTER : - <br>
+GITHUB : [ayushi424](https://github.com/ayushi424) <br>
+ABOUT YOU : I'm an undergraduate student pursuing B.tech in Computer Sceince. Also, Keenly interested in Machine Learning & Data Science. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Campus Placement Analysis & Prediction](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Campus%20Placement%20Analysis%20%26%20Prediction) | [Movie Classification](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Movie%20Classification)  <br>
+PR's COMPLETED : 2 <br>
