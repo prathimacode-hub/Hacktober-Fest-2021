@@ -72,3 +72,13 @@ GITHUB : [Sirish C/Github](https://github.com/SirishC)<br>
 ABOUT YOU : I'm an ambivert computer science undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
 PROJECT YOU HAD CONTRIBUTED TO : [I am Bored API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/I%20am%20Bored%20API) <br>
 PR's COMPLETED : 1 <br>
+
+--
+
+NAME : Neeraj Pratap Hazarika <br>
+LINKEDIN : [linkedin/neerajhazarika](https://www.linkedin.com/in/neerajhazarika/) <br>
+TWITTER : [@hazarika_neeraj](https://twitter.com/hazarika_neeraj) <br>
+GITHUB : [@NeerajHazarika](https://github.com/NeerajHazarika) <br>
+ABOUT YOU : I'm a computer science undergraduate, who likes to make and break stuff by coding. Jumping between whole range of cs domains like web dev, ml, cp etc. <br>
+PROJECT YOU HAD CONTRIBUTED TO : [0/1 Knapsack Problem](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Dynamic%20Programming/0%201%20Knapsack) | [count set bits in an integer](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Bit%20Manipulation/Count%20Set%20Bits%20in%20an%20integer) <br>
+PR's COMPLETED : 2 <br>
