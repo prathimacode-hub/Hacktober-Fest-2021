@@ -23,7 +23,6 @@ PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [PyAlgo-Tree](https://github.com/prath
 PR'S COMPLETED : 1 <br>
 
 --
-
 NAME : Aryan Sunil Ahuja <br>
 LINKEDIN : https://www.linkedin.com/in/aryan-ahuja-013443190/ <br>
 TWITTER : https://twitter.com/Aryan1053 <br>
@@ -31,6 +30,7 @@ GITHUB : https://github.com/theshredbox <br>
 ABOUT YOU : I am an AI& ML enthusisast and a back- end developer. My expertise includes python, ML, DL and Tableau. <br>
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Scale Chart for Musical Compostion](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Scale%20Chart%20For%20Musical%20Composition) |  [Bagging and Boosting](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Machine%20Learning/Algorithms/Bagging%20and%20Boosting) |  [Image Distortion Correction Using OpenCV](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Distortion%20Correction%20Using%20OpenCV) |  [Image Segmentation Using K Means Clustering](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Segmentation%20Using%20K%20Means%20Clustering) <br>
 PR'S COMPLETED : 4 <br>
+
 
 --
 
@@ -72,3 +72,14 @@ GITHUB : [Sirish C/Github](https://github.com/SirishC)<br>
 ABOUT YOU : I'm an ambivert computer science undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
 PROJECT YOU HAD CONTRIBUTED TO : [I am Bored API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/I%20am%20Bored%20API) <br>
 PR's COMPLETED : 1 <br>
+
+--
+
+NAME : YASH KATARIA <br>
+LINKEDIN : www.linkedin.com/in/kataria-yash <br>
+TWITTER : [Twitter](www.twitter.com/yashh18_) <br>
+GITHUB : www.github.com/yashh18 <br>
+ABOUT YOU : I am an IT undegrad student at BVCOE,New Delhi. My areas of expertise are Python, C++, ML <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Random Password Classifier](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Random%20Password%20Classifier) <br>
+[Magic 8-Ball](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Magic%208-Ball) <br>
+PR'S COMPLETED : 2 <br>
