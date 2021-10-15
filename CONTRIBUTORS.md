@@ -83,3 +83,13 @@ ABOUT YOU : I am an IT undegrad student at BVCOE,New Delhi. My areas of expertis
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Random Password Classifier](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Random%20Password%20Classifier) <br>
 [Magic 8-Ball](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Magic%208-Ball) <br>
 PR'S COMPLETED : 2 <br>
+
+--
+
+NAME : Abhishek Sharma<br>
+LINKEDIN : [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-aa06a9183/) <br>
+TWITTER : [Abhishek Sharma](https://twitter.com/Abhishe08346491) <br>
+GITHUB : [Abhishek Sharma](https://github.com/abhisheks008) <br>
+ABOUT YOU : A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) <br>
+PR's COMPLETED : 8 <br>
