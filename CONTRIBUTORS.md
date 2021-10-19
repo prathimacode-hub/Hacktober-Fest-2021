@@ -49,8 +49,9 @@ LINKEDIN : [Freny Reji](https://www.linkedin.com/in/freny-reji-2401) <br>
 TWITTER :  - <br>
 GITHUB : [freny24](https://github.com/freny24) <br>
 ABOUT YOU : I am a CSE student studying at VIT Bhopal. My expertise includes Python ,Machine Learning and Data Science. <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Feature Extraction using Hough Transform <br>
-PR'S COMPLETED : 1 <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Feature Extraction using Hough Transform ](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Feature%20Extraction%20using%20Hough%20Transform) | [Data Fitting using RANSAC Algorithm](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Data%20Fitting%20using%20RANSAC%20Algorithm) | [Introduction to Keras](https://github.com/freny24/DS-ScriptsNook/tree/main/Deep%20Learning/Introduction%20to%20Keras) | [Social Distancing Detector](https://github.com/freny24/ML-ProjectKart/tree/main/Social%20Distancing%20Detector)
+
+PR'S COMPLETED : 4
 
 --
 
