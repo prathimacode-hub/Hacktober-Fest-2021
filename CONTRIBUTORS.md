@@ -92,3 +92,13 @@ GITHUB : [Abhishek Sharma](https://github.com/abhisheks008) <br>
 ABOUT YOU : A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs. <br>
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) <br>
 PR's COMPLETED : 8 <br>
+
+--
+
+NAME : Khushi Sharma <br>
+LINKEDIN : [Khushi Sharma](https://www.linkedin.com/in/khushi-sharma-478307202) <br>
+TWITTER :  <br>
+GITHUB : [Khushi Sharma](https://github.com/Khushi-sharma07) <br>
+ABOUT YOU : I am an undergraduate student pursuing my B.Tech in Computer Science with specialization in Cloud Computing. I am also interested in machine learning and data science. <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Voice Calculator | Image Neon Effect Filter | Image Background Remover | Pie Chart Creator <br>
+PR's COMPLETED : 4 <br>
