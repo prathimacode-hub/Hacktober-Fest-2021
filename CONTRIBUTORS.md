@@ -102,3 +102,25 @@ GITHUB : [Khushi Sharma](https://github.com/Khushi-sharma07) <br>
 ABOUT YOU : I am an undergraduate student pursuing my B.Tech in Computer Science with specialization in Cloud Computing. I am also interested in machine learning and data science. <br>
 PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : Voice Calculator | Image Neon Effect Filter | Image Background Remover | Pie Chart Creator <br>
 PR's COMPLETED : 4 <br>
+
+--
+
+NAME : Neeraj Pratap Hazarika <br>
+LINKEDIN : [linkedin/neerajhazarika](https://www.linkedin.com/in/neerajhazarika/) <br>
+TWITTER : [@hazarika_neeraj](https://twitter.com/hazarika_neeraj) <br>
+GITHUB : [@NeerajHazarika](https://github.com/NeerajHazarika) <br>
+ABOUT YOU : I'm a computer science undergraduate, who likes to make and break stuff by coding. Jumping between whole range of cs domains like web dev, ml, cp etc. <br>
+PROJECT YOU HAD CONTRIBUTED TO : [0/1 Knapsack Problem](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Dynamic%20Programming/0%201%20Knapsack) | [count set bits in an integer](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Bit%20Manipulation/Count%20Set%20Bits%20in%20an%20integer) <br>
+PR's COMPLETED : 2 <br>
+
+-- 
+
+NAME : Avinash R <br>
+LINKEDIN : [Avinash R](https://www.linkedin.com/in/avinash-r-2113741b1/) <br>
+TWITTER : - [Avinash R](https://twitter.com/Avinash24328385?s=08) <br>
+GITHUB : [Avinash R/Github](https://github.com/avinash-218)<br>
+ABOUT YOU : AI Enthusiast, Open-source Contributor and Life-Long Learner
+PROJECT YOU HAD CONTRIBUTED TO : [DS-ScriptdNook](https://github.com/avinash-218/DS-ScriptsNook.git) <br>
+PR's COMPLETED : 2 <br>
+
+-- 
