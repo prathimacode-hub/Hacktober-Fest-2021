@@ -47,8 +47,6 @@ If this project helped you start with your open source journey or got you involv
 
 - You can follow me up through social handles
 
-📝Go through the Contributing Guidelines [here]() to know the overall worflow on exploring these projects.
-
 
 <h2>🛠Templates to Follow</h2>
 
@@ -78,37 +76,32 @@ If this project helped you start with your open source journey or got you involv
 
 | Serial No. | Repository | Issues  | Pull Requests  | Stars | Forks |
 |:--|:--|:--|:--|:--|:--|
-| 1. | [VoxUp](https://github.com/prathimacode-hub/VoxUp) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/VoxUp?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/VoxUp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/VoxUp?style=social&logo=github)](https://github.com/prathimacode-hub/VoxUp/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/VoxUp?style=social&logo=github)](https://github.com/prathimacode-hub/VoxUp/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/VoxUp?style=flat-square&logo=git)](https://github.com/prathimacode-hub/VoxUp/network/members) |
-| 2. | [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=social&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=social&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&logo=git)](https://github.com/prathimacode-hub/IoT-Spot/network/members) |
-| 3. | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/network/members) |
-| 4. | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&logo=git)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members) |
-| 5. | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/PyAlgo-Tree?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/PyAlgo-Tree/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/PyAlgo-Tree?style=flat-square&logo=git)](https://github.com/prathimacode-hub/PyAlgo-Tree/network/members) |
-| 6. | [Ds-ScriptsNook](https://github.com/prathimacode-hub/Ds-ScriptsNook) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Ds-ScriptsNook?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Ds-ScriptsNook/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Ds-ScriptsNook?style=social&logo=github)](https://github.com/prathimacode-hub/Ds-ScriptsNook/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Ds-ScriptsNook?style=social&logo=github)](https://github.com/prathimacode-hub/Ds-ScriptsNook/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Ds-ScriptsNook?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Ds-ScriptsNook/network/members) |
+| 1. | [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=social&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=social&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&logo=git)](https://github.com/prathimacode-hub/IoT-Spot/network/members) |
+| 2. | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/network/members) |
+| 3. | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&logo=git)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members) |
+| 4. | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/PyAlgo-Tree?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/PyAlgo-Tree/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/PyAlgo-Tree?style=flat-square&logo=git)](https://github.com/prathimacode-hub/PyAlgo-Tree/network/members) |
+| 5. | [Ds-ScriptsNook](https://github.com/prathimacode-hub/Ds-ScriptsNook) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Ds-ScriptsNook?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Ds-ScriptsNook/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Ds-ScriptsNook?style=social&logo=github)](https://github.com/prathimacode-hub/Ds-ScriptsNook/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Ds-ScriptsNook?style=social&logo=github)](https://github.com/prathimacode-hub/Ds-ScriptsNook/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Ds-ScriptsNook?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Ds-ScriptsNook/network/members) |
 
 
 <h2>🔖Projects Overview</h2>
 
-1. **VoxUp**
-
-VoxUp is a non-profit digital initiative to uplift and applause the individuals who had created a difference in our society. This platform hosts all the enrinching and impactful stories by storytellers of india documented in local languages. 
-
-2. **IoT-Spot**
+1. **IoT-Spot**
 
 An Amazing Spot to step your foot into this ocean of "Internet Of things". Dive deep and explore the fiesta of electronics. It's a cabin that would help you in mastering "Internet Of Things" and making your hands dirty while exploring. 
 
-3. **Awesome_Python_Scripts**
+2. **Awesome_Python_Scripts**
 
 A Curated Collection of Awesome Python Scripts that will make you go wow. A ecstatic pool of scripts for all pythoneers to get immersed in this language.
 
-4. **ML-ProjectKart**
+3. **ML-ProjectKart**
 
 This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and many more. 
 
-5. **PyAlgo-Tree**
+4. **PyAlgo-Tree**
 
 This project aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields. You can get all the wisdom here about data structures and algorithms before you dive into real time projects.
 
-6. **DS-ScriptsNook**
+5. **DS-ScriptsNook**
 
 A husky nook to get acquainted with Data Science. This repository encloses with the unique collection of scripts based on Linear Algebra, Calculus, Statistics, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Artificial Intelligence.
 
