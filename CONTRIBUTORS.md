@@ -49,7 +49,7 @@ LINKEDIN : [Freny Reji](https://www.linkedin.com/in/freny-reji-2401) <br>
 TWITTER :  - <br>
 GITHUB : [freny24](https://github.com/freny24) <br>
 ABOUT YOU : I am a CSE student studying at VIT Bhopal. My expertise includes Python ,Machine Learning and Data Science. <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Feature Extraction using Hough Transform ](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Feature%20Extraction%20using%20Hough%20Transform) | [Data Fitting using RANSAC Algorithm](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Data%20Fitting%20using%20RANSAC%20Algorithm) | [Introduction to Keras](https://github.com/freny24/DS-ScriptsNook/tree/main/Deep%20Learning/Introduction%20to%20Keras) | [Social Distancing Detector](https://github.com/freny24/ML-ProjectKart/tree/main/Social%20Distancing%20Detector)
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Feature Extraction using Hough Transform ](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Feature%20Extraction%20using%20Hough%20Transform) | [Data Fitting using RANSAC Algorithm](https://github.com/freny24/DS-ScriptsNook/tree/main/Computer%20Vision/Tutorials/Data%20Fitting%20using%20RANSAC%20Algorithm) | [Introduction to Keras](https://github.com/freny24/DS-ScriptsNook/tree/main/Deep%20Learning/Introduction%20to%20Keras) | [Social Distancing Detector](https://github.com/freny24/ML-ProjectKart/tree/main/Social%20Distancing%20Detector) <br>
 PR'S COMPLETED : 4
 
 --
@@ -59,7 +59,7 @@ LINKEDIN : [Ayushi Shrivastava](https://www.linkedin.com/in/ayushi-shrivastava-b
 TWITTER : - <br>
 GITHUB : [ayushi424](https://github.com/ayushi424) <br>
 ABOUT YOU : I'm an undergraduate student pursuing B.Tech in Computer Science. Also, Keenly interested in Machine Learning & Data Science. <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Campus Placement Analysis & Prediction](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Campus%20Placement%20Analysis%20%26%20Prediction) | [Movie Classification](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Movie%20Classification)  <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Campus Placement Analysis & Prediction](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Campus%20Placement%20Analysis%20%26%20Prediction) | [Movie Classification](https://github.com/prathimacode-hub/PyAlgo-Tree/tree/main/Machine%20Learning/Movie%20Classification) <br>
 PR's COMPLETED : 2 <br>
 
 --
@@ -67,7 +67,7 @@ PR's COMPLETED : 2 <br>
 NAME : Sirish C <br>
 LINKEDIN : [Sirish C/LinkedIn](https://www.linkedin.com/in/sirish-c/) <br>
 TWITTER : - <br>
-GITHUB : [Sirish C/Github](https://github.com/SirishC)<br>
+GITHUB : [Sirish C/Github](https://github.com/SirishC) <br>
 ABOUT YOU : I'm an ambivert computer science undergraduate who loves coding, Graduated in 2020 from Amrita School of Engineering, Coimbatore.<br>
 PROJECT YOU HAD CONTRIBUTED TO : [I am Bored API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/I%20am%20Bored%20API) <br>
 PR's COMPLETED : 1 <br>
@@ -79,7 +79,7 @@ LINKEDIN : www.linkedin.com/in/kataria-yash <br>
 TWITTER : [Twitter](www.twitter.com/yashh18_) <br>
 GITHUB : www.github.com/yashh18 <br>
 ABOUT YOU : I am an IT undegrad student at BVCOE,New Delhi. My areas of expertise are Python, C++, ML <br>
-PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Random Password Classifier](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Random%20Password%20Classifier) <br>
+PROJECT/PROJECTS YOU HAD CONTRIBUTED TO : [Random Password Classifier](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Random%20Password%20Classifier) |
 [Magic 8-Ball](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Magic%208-Ball) <br>
 PR'S COMPLETED : 2 <br>
 
@@ -120,7 +120,7 @@ LINKEDIN : [Avinash R](https://www.linkedin.com/in/avinash-r-2113741b1/) <br>
 TWITTER : - [Avinash R](https://twitter.com/Avinash24328385?s=08) <br>
 GITHUB : [Avinash R/Github](https://github.com/avinash-218)<br>
 ABOUT YOU : AI Enthusiast, Open-source Contributor and Life-Long Learner
-PROJECT YOU HAD CONTRIBUTED TO : [DS-ScriptdNook](https://github.com/avinash-218/DS-ScriptsNook.git) <br>
+PROJECT YOU HAD CONTRIBUTED TO : [DS-ScriptdNook](https://github.com/prathimacode-hub/DS-ScriptsNook) <br>
 PR's COMPLETED : 2 <br>
 
 -- 
