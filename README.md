@@ -43,8 +43,6 @@ If this project helped you start with your open source journey or got you involv
 
 - Sharing is always caring. You can share it to the world 
 
-- You can add up your experience in [Testimonials](https://github.com/prathimacode-hub/Hacktober-Fest-2021/blob/main/.github/Testimonials.md)
-
 - You can follow me up through social handles
 
 
