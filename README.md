@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
+[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/prathimacode-hub)
 
 [![](https://badgen.net/github/stars/prathimacode-hub/Hacktober-Fest-2021)](https://github.com/prathimacode-hub/Hacktober-Fest-2021/stargazers)
 [![](https://badgen.net/github/forks/prathimacode-hub/Hacktober-Fest-2021)](https://github.com/prathimacode-hub/Hacktober-Fest-2021/network/members)
@@ -184,7 +184,7 @@ If you liked working on projects listed here, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
 </td>
 
 
